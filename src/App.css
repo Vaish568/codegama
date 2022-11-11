@@ -1,0 +1,8 @@
+.allProducts {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+.App {
+  background-color: lightblue;
+}
